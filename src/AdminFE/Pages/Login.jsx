@@ -44,7 +44,7 @@ const Login = () => {
     <div className="lgnpg">
       <div className="suj-login">
         <p>For login:-</p>
-        <p>email:darshan@gmail.com</p>
+        <p>email:rahul@gmail.com</p>
         <p>password:12345</p>
       </div>
       <Container
