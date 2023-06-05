@@ -24,7 +24,7 @@ const HeaderNavbar = () => {
           textAlign={{ sm: "center", base: "center" }}
           marginBottom="3"
           marginTop={2}
-          color="#FFFFFF"
+          color="black"
         >
           ONLY FOR EDUCATIONAL PURPOSE !!! <br />
           Developer :- Rahul
