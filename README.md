@@ -20,19 +20,15 @@
 
 # Pages 
 
-- HomePage  ` Saurav Kumar `
-- Login and Signup ` Saurav Kumar `
-- ProductsPages  ` Md Ali `
-- single ProductPage ` Raghavendra `
-- Bag (Cart) ` Saurav Kumar `
-- AddressPage ` Raghavendra `
-- PaymentPage ` Saurav Kumar `
-- Admin side ` Sammyak Deosale ` 
+- HomePage  
+- Login and Signup 
+- ProductsPages  
+- single ProductPage 
+- Bag (Cart) 
+- AddressPage 
+- PaymentPage 
+- Admin side 
  
- # Home Page
-  <img src="https://user-images.githubusercontent.com/104342116/213980455-c8c6e7a5-3e17-4e40-bee0-0e211a835752.png"/>
-  <img src="https://user-images.githubusercontent.com/104342116/213980572-f53d3a8d-e314-473d-99a2-6ee7f67db8f0.png"/>
-  <img src="https://user-images.githubusercontent.com/104342116/213980622-5826b3e4-892a-41b0-bbf4-30f9235694ac.png"/>
    
 # SignupPage
  <img src="https://user-images.githubusercontent.com/104342116/213981260-1947b266-3e19-45cb-8880-c13ea7f78023.png"/>
