@@ -1,0 +1,8 @@
+.searchbarcomp{
+    max-height: 150px;
+    overflow: auto;
+    width: 90%;
+    justify-content: flex-end;
+    display: flex;
+    margin: auto;
+}
