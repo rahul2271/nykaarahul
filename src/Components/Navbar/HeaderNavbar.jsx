@@ -26,7 +26,8 @@ const HeaderNavbar = () => {
           marginTop={2}
           color="#FFFFFF"
         >
-          BEAUTY BONANZA Get Your Daily Dose Of Amazing Deals
+          ONLY FOR EDUCATIONAL PURPOSE !!! <br />
+          Developer :- Rahul
         </Heading>
       </Box>
       <Flex
